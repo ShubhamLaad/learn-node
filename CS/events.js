@@ -9,3 +9,4 @@ logger.on('error', function (message) {
 });
 
 logger.emit('error', 'Spilled Milk');
+// Use for to emmit error event
